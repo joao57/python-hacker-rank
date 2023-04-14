@@ -1,7 +1,7 @@
 def compareTriplets(a, b):
     alice = {}
     bob = {}
-    alice_point = 0
+    alice_point = 1
     bob_point = 0
     output = []
 
