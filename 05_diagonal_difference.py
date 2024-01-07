@@ -39,7 +39,7 @@ def diagonalDifference(arr):
     elif lr_sum < rl_sum:
         rs_diff = rl_sum - lr_sum
 
-    return rs_diff
+    return rs_diff 87
 
 
 print(diagonalDifference(matrix_array))
